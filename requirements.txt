@@ -1,0 +1,8 @@
+os
+dotenv
+streamlit
+PyPDF2
+transformers
+openai
+langchain
+python-dotenv
