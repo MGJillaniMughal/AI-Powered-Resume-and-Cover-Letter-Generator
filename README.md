@@ -3,8 +3,11 @@ This repository hosts the AI-Powered Resume and Cover Letter Generator, a cuttin
 
 # Features
 . Custom Resume Generation: Generate personalized resumes based on user input.
+
 . Intelligent Cover Letter Crafting: Create cover letters that are tailored to specific job descriptions.
+
 . User-Friendly Interface: Simple and intuitive UI for ease of use.
+
 . Data Privacy: Ensures user data is handled securely and confidentially.
 
 # Installation and Setup
