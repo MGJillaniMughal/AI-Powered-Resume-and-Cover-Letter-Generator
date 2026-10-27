@@ -1,4 +1,3 @@
-os
 dotenv
 streamlit
 PyPDF2
